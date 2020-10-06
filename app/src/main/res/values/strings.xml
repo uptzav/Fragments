@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+    <string name="title1"> Cual es la Mejor Pelicula de todos los tiempos</string>
+    <string name="article1"> CIUDADANO KANE. \n Quienes estudiaron su obra aseguran que la película rompió
+        con la tradicional narración cinematográfica que se desarrollaba por esos años. Además que recurrió
+        a algunas técnicas de documental y empleaba los contrapicados. En su momento la obra no fue apreciada.\n
+        \n EL PADRINO.  \n Con El Padrino se plantea una nueva narración de este tipo de géneros. Sin endulzar
+        las escenas ni encontrar una lección en la historia. Solo es el retrato de una realidad.
+        Así como sucedió con Ciudadano Kane, la película recibió fuertes críticas por su violencia,
+        y porque algunos consideraban que indirectamente se exaltaba a la mafia. Al final, el filme triunfó
+        al tiempo y hoy es un clásico que debemos ver.
+        Ni siquiera ganó el Óscar. Hoy es una de las mejores de todos los tiempos.   </string>
+    <string name="title2">My Bonnie - Aint got time fo dat.</string>
+    <string name="article2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+
+
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="yes_message">El Padrino</string>
+    <string name="no_message">Ciudadano Kane</string>
+    <string name="question_article">¿Cual es la mejor pelicula de todos los tiempos?</string>
+
+
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <string name="open_txt">Vote Por su Pelicula Favorita</string>
+
+    <string name="exception_message">Es necesario implementar la interfaz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
